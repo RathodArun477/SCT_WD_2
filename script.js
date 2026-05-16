@@ -2,7 +2,7 @@ let startTime = 0;
 let elapsedTime = 0;
 let timerInterval = 0;
 let isRunning = false;
-let lapCountt = 0;
+let lapCount = 0;
 
 const display = document.getElementById('display');
 const startBtn = document.getElementById('startBtn');
